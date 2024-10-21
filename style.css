@@ -1,0 +1,103 @@
+/* Style for the banner image and title */
+.banner {
+    position: relative;
+    background-image: url('/Images/BannerImage.png');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner h1 {
+    color: white;
+    font-size: 3rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+/* Tab bar customization */
+.stTabs [role="tablist"] {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 20px; /* Increase the font size of the tabs */
+    color: red;
+}
+
+/* Individual tab item customization */
+.stTabs [role="tab"] {
+    padding: 10px 10px; /* Increase padding for each tab */
+    margin-left: 20px; /* Add some spacing between tabs */
+    margin-right: 20px;
+}
+
+/* Selected tab underline customization */
+.stTabs [role="tab"][aria-selected="true"] {
+    border-bottom: 4px solid #ff4b4b; /* Increase the thickness and width of the underline */
+}
+
+/* Body background color */
+body {
+    background-color: #f4f4f4;
+}
+
+/* Heading colors and font */
+h1, h2, h3 {
+    color: #2C3E50;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #1abc9c;
+    font-weight: bold;
+}
+
+/* Button styling */
+.stButton>button {
+    background-color: #1abc9c;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+}
+
+.stButton>button:hover {
+    background-color: #16a085;
+    color: white;
+}
+
+/* Form Card Design */
+.stCard {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.stCard h2 {
+    color: #3498db;
+}
+
+/* Form input styling */
+input, select, textarea, .stNumberInput, .stSelectbox, .stSlider {
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+/* Padding and space between columns */
+.stColumn > div {
+    padding: 10px;
+}
+
+/* General paragraph text */
+p {
+    font-size: 16px;
+    color: #34495e;
+}
