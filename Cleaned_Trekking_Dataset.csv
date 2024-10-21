@@ -1,0 +1,384 @@
+,Trek_cleaned,Cost_cleaned,Time_cleaned,Trip_Grade_cleaned,Weather_Conditions,Max_Altitude_cleaned,Accomodation/Hotel_type,Best_travel_time_1,Best_travel_time_2,travel_date,Employment_type,year,fitness_level_cleaned,trekkig_group_size,Guide_or_no_guide,Equipment_used,Purpose_of_travel,Health_incidents,Rating,Sex,Age
+0,Everest Base Camp Trek,1420,16,2,Clear,5545,Guesthouse,March - May , Sept - Dec,2022-09-13,Government Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,31
+1,Everest Base Camp Short Trek,1295,14,2,Cloudy,5545,Guesthouse,March - May , Sept - Dec,2021-09-04,Private Sector,2021,1,8,No Guide,No,Adventure,No,4.0,Female,31
+2,Everest Base Camp Heli Shuttle Trek,2000,12,2,Snowy,5545,Guesthouse,March - May , Sept - Dec,2021-01-25,Private Sector,2021,3,12,Guide,Oxygen,Charity,None,5.0,Female,34
+3,Everest Base Camp Heli Trek,3300,11,2,Clear,5545,Guesthouse,March - May , Sept - Dec,2022-01-28,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,28
+4,Everest Base Camp Trek,1800,20,2,Cloudy,5545,Guesthouse,March - May , Sept - Dec,2021-10-21,Private Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,28
+5,Everest Chola Pass Trek,1720,19,3,Clear,5545,Guesthouse,March - May , Sept - Dec,2022-01-25,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,25
+6,Gokyo Lake Renjo La Pass Trek,1450,16,2,Rainy,5360,Guesthouse,March - May , Sept - Dec.,2022-08-07,Government Sector,2022,1,8,No Guide,No,Adventure,No,4.0,Male,31
+7,Everest High Passes Trek,1950,22,3,Snowy,5545,Guesthouse,April - May , Sept - Nov,2021-01-04,Private Sector,2021,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,31
+8,Short Everest Trek,1060,7,2,Clear,3900,Guesthouse,March - May , Sept - Dec.,2022-06-28,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Female,28
+9,Everest Panorama Trek,1150,10,2,Cloudy,3860,Guesthouse,Jan - May , Sept - Dec,2020-01-31,Government Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,33
+10,Everest View Trek,1100,9,2,Clear,3860,Guesthouse,Jan - May , Sept - Dec,2020-10-11,Government Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Transgender,31
+11,Luxury Everest Base Camp Heli Trek,4200,11,2,Rainy,5545,Teahouse,March-May , Sept-Dec.,2020-11-14,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,26
+12,Everest Base Camp Trek,1900,21,3,Snowy,5545,Guesthouse,March - May , Sept - Nov,2022-03-03,Government Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Male,32
+13,Annapurna Base Camp Trek,1090,14,2,Clear,4210,Guesthouse,March - May , Sept - Dec,2020-12-03,Government Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,31
+14,Annapurna Base Camp Short Trek,1090,11,2,Cloudy,4210,Teahouse,March - May , Sept - Dec,2022-03-17,Government Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,31
+15,Instant Annapurna Base Camp Trek,980,9,2,Clear,4230,Guesthouse,March - May , Sept - Dec.,2023-08-21,Private Sector,2023,2,10,Guide,Poles,Leisure,None,4.5,Male,34
+16,Annapurna Base Camp Heli Trek,1750,9,2,Rainy,4210,Teahouse,March - May , Sept - Dec,2022-10-07,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,28
+17,Mardi Himal Trek,850,9,2,Snowy,4200,Guesthouse,March - May , Sept - Dec,2022-06-16,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Male,28
+18,Mardi Himal Trek,850,8,2,Clear,4200,Guesthouse,March-May , Sept-Dec.,2021-12-15,Private Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Transgender,29
+19,Classic Annapurna Circuit Trek,1350,18,2,Cloudy,5416,Teahouse,March - May , Sept - Nov,2021-02-22,Private Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,34
+20,Annapurna Circuit Trek,1250,14,2,Clear,5416,Teahouse,March-May , Sept-Dec,2020-05-06,Private Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Transgender,28
+21,Annapurna Circuit Short Trek,1250,12,3,Rainy,5416,Guesthouse,March - May , Sept - Nov.,2020-08-06,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,29
+22,Annapurna Luxury Trek,1450,9,2,Snowy,2012,Lodge,March - May , Setpt - Dec,2021-06-18,Private Sector,2021,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,31
+23,Annapurna Panorama Trek,860,9,1,Clear,3210,Teahouse,Jan - May , Sept - Dec,2021-08-01,Government Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Male,28
+24,Annapurna Tilicho Lake Trek,1450,17,3,Cloudy,5416,Guesthouse,March - May , Sept - Nov,2020-06-12,Government Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,31
+25,Short Annapurna Trek,590,5,1,Clear,1990,Lodge,Jan- May , Sept - Dec,2022-01-13,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Male,35
+26,Manaslu Circuit Trek,1450,15,3,Rainy,5106,Guesthouse,March - May , Sept - Nov,2023-04-01,Private Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,34
+27,Manaslu Circuit Trek,1380,14,2,Snowy,5220,Teahouse,March - May , Setpt - Nov,2020-10-06,Private Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,28
+28,Tsum Valley With Manaslu Trek,1850,20,3,Clear,5220,Guesthouse,March - May , Sept - Nov,2023-07-07,Private Sector,2023,2,5,Guide,Poles,Leisure,None,4.0,Male,26
+29,Upper Mustang Trek,2150,17,2,Cloudy,4210,Guesthouse,March - May , Sept - Nov.,2020-10-14,Private Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,31
+30,Upper Mustang Trek,2300,18,2,Clear,4200,Lodge,March - Nov,March - Nov,2022-07-23,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Transgender,30
+31,Upper Mustang Tiji Festival Trek,2150,18,2,Rainy,4210,Teahouse,March - May , Sept - Nov,2022-07-09,Government Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,31
+32,Langtang Valley Trek,750,10,2,Snowy,5050,Teahouse,March-May , Sept-Dec,2021-10-21,Government Sector,2021,3,12,Guide,Oxygen,Charity,None,5.0,Female,25
+33,Langtang Gosaikunda Trek,1180,16,2,Clear,4600,Guesthouse,March - May , Sept - Dec,2022-04-11,Government Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Male,32
+34,Tamang Heritage Trek,920,14,2,Cloudy,5050,Guesthouse,March - May , Sept - Dec,2022-11-24,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,28
+35,Tamang Heritage Trail Trek,750,8,1,Clear,2607,Teahouse/Lodge,Jan - May , Sept - Dec,2022-03-03,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,33
+36,Helambu Trek,780,9,1,Rainy,3650,Guesthouse,Jan - May , Sept- Dec,2020-01-24,Government Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,31
+37,Annapurna Base Camp Trek,1499,11,2,Clear,4130,Guesthouse,Jan - May , Sept - Dec,2020-04-20,Private Sector,2020,1,8,No Guide,No,Adventure,No,4.0,Non-Binary,34
+38,Everest Base Camp Trek,1750,14,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2020-08-27,Government Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Female,34
+39,Everest Base Camp Short Trek,1499,14,2,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2022-05-08,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,33
+40,Everest Base Camp Trek,1499,16,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2020-06-11,Private Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Transgender,25
+41,Annapurna Circuit Trek,1499,17,2,Rainy,5416,Guesthouse,Jan - May , Sept - Dec,2020-07-15,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,33
+42,Everest Base Camp Luxury Lodge Trek,1499,15,2,Snowy,5545,Guesthouse,Jan - May , Sept - Dec,2020-01-19,Private Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Male,26
+43,Everest Base Camp Trek,1499,18,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2022-02-07,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,28
+44,Upper Mustang Trek,1499,17,2,Cloudy,3870,Guesthouse,Jan - May , Sept - Dec,2022-03-23,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,25
+45,Everest Advanced Base Camp Trek,1499,18,2,Rainy,6340,Guesthouse,Jan - May , Sept - Dec,2021-08-19,Private Sector,2021,1,8,No Guide,No,Adventure,No,4.0,Transgender,34
+46,Gokyo Lakes And Gokyo Ri Trek,1499,14,2,Rainy,5357,Guesthouse,Jan - May , Sept - Dec,2023-05-23,Private Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,25
+47,Mardi Himal Trek,1499,10,2,Snowy,3540,Guesthouse,Jan - May , Sept - Dec,2020-11-03,Government Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Female,35
+48,Manaslu Circuit Trek,1499,18,2,Clear,5160,Guesthouse,Jan - May , Sept - Dec,2020-03-26,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Transgender,28
+49,Langtang Valley Trek,1499,11,2,Cloudy,5000,Guesthouse,Jan - May , Sept - Dec,2021-09-10,Private Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,31
+50,Annapurna Sanctuary Trek,1499,14,2,Clear,4130,Guesthouse,Jan - May , Sept - Dec,2020-01-24,Private Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Male,31
+51,Rara Lake Trek,1499,15,2,Rainy,3055,Guesthouse,Jan - May , Sept - Dec,2022-07-28,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,29
+52,Everest High Passes Trek,1499,20,2,Rainy,5546,Guesthouse,Jan - May , Sept - Dec,2020-07-08,Private Sector,2020,1,8,No Guide,No,Adventure,No,4.0,Female,31
+53,Kanchenjunga Circuit Trek,1499,25,2,Clear,5143,Guesthouse,Jan - May , Sept - Dec,2021-10-15,Government Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,28
+54,Everest View Trek,1499,12,2,Cloudy,3870,Guesthouse,Jan - May , Sept - Dec,2021-01-21,Private Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,29
+55,Tsum Valley Trek,1499,19,2,Clear,6000,Guesthouse,Jan - May , Sept - Dec,2021-11-01,Private Sector,2021,2,10,Guide,Poles,Leisure,None,4.5,Male,26
+56,The Royal Trek,1499,9,2,Rainy,1730,Guesthouse,Jan - May , Sept - Dec,2022-03-14,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,28
+57,Makalu Base Camp Trek,1499,22,2,Snowy,4870,Guesthouse,Jan - May , Sept - Dec,2020-09-20,Private Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Non-Binary,34
+58,"Langtang, Gosainkunda And Helambu Trek",1499,17,2,Clear,5000,Guesthouse,Jan - May , Sept - Dec,2021-01-01,Private Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Male,33
+59,Nar Phu Valley Trek,1499,19,2,Cloudy,5416,Guesthouse,Jan - May , Sept - Dec,2023-02-28,Private Sector,2023,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,33
+60,Annapurna Circle Trek,1499,14,2,Clear,5416,Guesthouse,Jan - May , Sept - Dec,2023-01-11,Private Sector,2023,2,10,Guide,Poles,Leisure,None,4.5,Male,31
+61,Everest Kangshung Face Trek,1499,21,2,Rainy,5320,Guesthouse,Jan - May , Sept - Dec,2021-10-11,Government Sector,2021,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,32
+62,Tsum Valley And Manaslu Trek,1499,27,2,Snowy,4460,Guesthouse,Jan - May , Sept - Dec,2020-03-04,Private Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Male,28
+63,Khopra Ridge Community Trek,1499,13,2,Clear,4500,Guesthouse,Jan - May , Sept - Dec,2023-03-09,Government Sector,2023,2,5,Guide,Poles,Leisure,None,4.0,Female,27
+64,Nepal Experience Tour Trek,1499,12,1,Cloudy,3210,Guesthouse,Jan - May , Sept - Dec,2021-11-23,Private Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,30
+65,Annapurna Circuit Trek,1499,20,2,Cloudy,5416,Guesthouse,Jan - May , Sept - Dec,2021-10-29,Private Sector,2021,1,8,No Guide,No,Adventure,No,4.0,Female,26
+66,Annapurna With Tilicho Lake Trek,1499,17,2,Rainy,5416,Guesthouse,Jan - May , Sept - Dec,2021-02-13,Private Sector,2021,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,30
+67,Langtang Valley Trek,1499,14,2,Snowy,5122,Guesthouse,Jan - May , Sept - Dec,2021-04-27,Private Sector,2021,3,12,Guide,Oxygen,Charity,None,5.0,Male,34
+68,Tamang Heritage Trek,1499,14,2,Clear,3870,Guesthouse,Jan - May , Sept - Dec,2022-04-10,Private Sector,2022,1,8,No Guide,No,Adventure,No,4.0,Female,29
+69,Manaslu And Annapurna Trek,1499,25,2,Cloudy,5416,Guesthouse,Jan - May , Sept - Dec,2021-04-18,Government Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,31
+70,Everest Himalaya Heli Tour Trek,1499,7,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2021-12-02,Government Sector,2021,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,34
+71,Nepal Hiking And Culture Tour Trek,1499,8,2,Rainy,1550,Guesthouse,Jan - May , Sept - Dec,2021-05-30,Private Sector,2021,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,28
+72,Annapurna Sunrise And Everest View Trek,1499,17,2,Snowy,3870,Guesthouse,Jan - May , Sept - Dec,2023-05-16,Private Sector,2023,3,12,Guide,Oxygen,Charity,None,5.0,Non-Binary,28
+73,Tenzing Hillary Everest Marathon Trek,1499,20,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2022-10-13,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Male,28
+74,Everest Base Camp Trek,1450,16,3,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2023-04-28,Private Sector,2023,1,6,No Guide,None,Adventure,Minor Injury,3.5,Transgender,28
+75,Everest Kalapathar Trek,1390,15,3,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2020-09-16,Private Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,34
+76,Everest Panorama Trek,1040,10,2,Rainy,3860,Guesthouse,Jan - May , Sept - Dec,2023-03-24,Private Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,29
+77,Everest Base Camp Trek,1530,19,3,Snowy,5545,Guesthouse,Jan - May , Sept - Dec,2022-01-01,Government Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Non-Binary,31
+78,Gokyo Lake Trek,1190,13,2,Clear,5357,Guesthouse,Jan - May , Sept - Dec,2020-07-09,Government Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Female,31
+79,Everest Base Camp Heli Trek,3600,9,2,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2020-12-04,Government Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,31
+80,Annapurna Circuit Trek,1100,19,3,Clear,5416,Guesthouse,Jan - May , Sept - Dec,2021-01-13,Private Sector,2021,2,10,Guide,Poles,Leisure,None,4.5,Female,26
+81,Annapurna Base Camp Trek,1090,16,2,Rainy,4130,Guesthouse,Jan - May , Sept - Dec,2021-08-25,Private Sector,2021,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,25
+82,Ghorepani Poon Hill Trek,450,10,1,Snowy,3210,Guesthouse,Jan - May , Sept - Dec,2023-03-08,Private Sector,2023,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,28
+83,Upper Mustang Trek,2100,17,3,Clear,4200,Guesthouse,Jan - May , Sept - Dec,2021-09-03,Private Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Male,34
+84,Mardi Himal Trek,590,9,2,Cloudy,4500,Guesthouse,Jan - May , Sept - Dec,2021-05-09,Government Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,32
+85,Langtang Valley Trek,690,11,2,Clear,4773,Guesthouse,Jan - May , Sept - Dec,2023-01-17,Private Sector,2023,2,10,Guide,Poles,Leisure,None,4.5,Female,25
+86,Manaslu Circuit Trek,1190,17,3,Rainy,5220,Guesthouse,Jan - May , Sept - Dec,2023-01-11,Government Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,32
+87,Annapurna Base Camp Trek,1090,14,2,Snowy,4210,Guesthouse,March - May , Sept - Dec,2022-07-29,Government Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,28
+88,Annapurna Base Camp Short Trek,1090,11,2,Clear,4210,Teahouse,March - May , Sept - Dec,2023-06-04,Private Sector,2023,2,5,Guide,Poles,Leisure,None,4.0,Transgender,34
+89,Instant Annapurna Base Camp Trek,980,9,2,Cloudy,4230,Guesthouse,March - May , Sept - Dec.,2022-11-22,Government Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,28
+90,Annapurna Base Camp Heli Trek,1750,9,2,Rainy,4210,Teahouse,March - May , Sept - Dec,2023-08-07,Government Sector,2023,1,8,No Guide,No,Adventure,No,4.0,Transgender,27
+91,Mardi Himal Trek,850,9,2,Rainy,4200,Guesthouse,March - May , Sept - Dec,2022-04-15,Government Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,28
+92,Mardi Himal Trek,850,8,2,Snowy,4200,Guesthouse,March-May , Sept-Dec.,2022-04-11,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,28
+93,Classic Annapurna Circuit Trek,1350,18,2,Clear,5416,Teahouse,March - May , Sept - Nov,2021-09-26,Government Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,33
+94,Annapurna Circuit Trek,1250,14,2,Cloudy,5416,Teahouse,March-May , Sept-Dec,2020-01-08,Private Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,34
+95,Annapurna Circuit Short Trek,1250,12,3,Clear,5416,Guesthouse,March - May , Sept - Nov.,2020-12-23,Private Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Female,26
+96,Annapurna Luxury Trek,1450,9,2,Rainy,2012,Lodge,March - May , Setpt - Dec,2020-08-20,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,28
+97,Annapurna Panorama Trek,860,9,1,Snowy,3210,Teahouse,Jan - May , Sept - Dec,2022-03-27,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Male,29
+98,Annapurna Tilicho Lake Trek,1450,17,3,Clear,5416,Guesthouse,March - May , Sept - Nov,2022-03-24,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Male,29
+99,Short Annapurna Trek,590,5,1,Cloudy,1990,Lodge,Jan- May , Sept - Dec,2020-07-15,Government Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,29
+100,Manaslu Circuit Trek,1450,15,3,Clear,5106,Guesthouse,March - May , Sept - Nov,2021-09-07,Private Sector,2021,2,10,Guide,Poles,Leisure,None,4.5,Male,28
+101,Manaslu Circuit Trek,1380,14,2,Rainy,5220,Teahouse,March - May , Setpt - Nov,2021-08-18,Private Sector,2021,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,33
+102,Tsum Valley With Manaslu Trek,1850,20,3,Snowy,5220,Guesthouse,March - May , Sept - Nov,2023-06-10,Private Sector,2023,3,12,Guide,Oxygen,Charity,None,5.0,Male,29
+103,Upper Mustang Trek,2150,17,2,Clear,4210,Guesthouse,March - May , Sept - Nov.,2023-04-19,Private Sector,2023,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,26
+104,Upper Mustang Trek,2300,18,2,Cloudy,4200,Lodge,March - Nov,March - Nov,2020-02-29,Private Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,28
+105,Upper Mustang Tiji Festival Trek,2150,18,2,Clear,4210,Teahouse,March - May , Sept - Nov,2020-02-20,Private Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,28
+106,Langtang Valley Trek,750,10,2,Rainy,5050,Teahouse,March-May , Sept-Dec,2022-01-04,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,34
+107,Langtang Gosaikunda Trek,1180,16,2,Snowy,4600,Guesthouse,March - May , Sept - Dec,2021-07-07,Private Sector,2021,3,12,Guide,Oxygen,Charity,None,5.0,Male,34
+108,Tamang Heritage Trek,920,14,2,Clear,5050,Guesthouse,March - May , Sept - Dec,2023-01-29,Private Sector,2023,2,5,Guide,Poles,Leisure,None,4.0,Transgender,26
+109,Tamang Heritage Trail Trek,750,8,1,Cloudy,2607,Teahouse/Lodge,Jan - May , Sept - Dec,2020-08-17,Private Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Transgender,25
+110,Helambu Trek,780,9,1,Clear,3650,Guesthouse,Jan - May , Sept- Dec,2022-06-10,Government Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Male,31
+111,Annapurna Base Camp Trek,1499,11,2,Rainy,4130,Guesthouse,Jan - May , Sept - Dec,2021-05-09,Private Sector,2021,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,28
+112,Everest Base Camp Trek,1750,14,2,Snowy,5545,Guesthouse,Jan - May , Sept - Dec,2023-04-07,Private Sector,2023,3,12,Guide,Oxygen,Charity,None,5.0,Female,30
+113,Everest Base Camp Short Trek,1499,14,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2023-04-05,Private Sector,2023,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,29
+114,Everest Base Camp Trek,1499,16,2,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2020-07-22,Private Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,29
+115,Annapurna Circuit Trek,1499,17,2,Clear,5416,Guesthouse,Jan - May , Sept - Dec,2022-05-10,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Male,29
+116,Everest Base Camp Luxury Lodge Trek,1499,15,2,Rainy,5545,Guesthouse,Jan - May , Sept - Dec,2020-01-03,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,28
+117,Everest Base Camp Trek,1499,18,2,Snowy,5545,Guesthouse,Jan - May , Sept - Dec,2020-01-17,Government Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Female,31
+118,Upper Mustang Trek,1499,17,2,Clear,3870,Guesthouse,Jan - May , Sept - Dec,2022-05-22,Government Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,31
+119,Everest Advanced Base Camp Trek,1499,18,2,Cloudy,6340,Guesthouse,Jan - May , Sept - Dec,2022-06-28,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Transgender,31
+120,Gokyo Lakes And Gokyo Ri Trek,1499,14,2,Clear,5357,Guesthouse,Jan - May , Sept - Dec,2022-07-19,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,28
+121,Mardi Himal Trek,1499,10,2,Rainy,3540,Guesthouse,Jan - May , Sept - Dec,2022-05-10,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,26
+122,Manaslu Circuit Trek,1499,18,2,Snowy,5160,Guesthouse,Jan - May , Sept - Dec,2020-08-28,Government Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,32
+123,Langtang Valley Trek,1499,11,2,Clear,5000,Guesthouse,Jan - May , Sept - Dec,2021-06-16,Government Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Transgender,27
+124,Annapurna Sanctuary Trek,1499,14,2,Clear,4130,Guesthouse,Jan - May , Sept - Dec,2023-05-27,Government Sector,2023,1,8,No Guide,No,Adventure,No,4.0,Transgender,32
+125,Rara Lake Trek,1499,15,2,Clear,3055,Guesthouse,Jan - May , Sept - Dec,2022-01-21,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,29
+126,Everest High Passes Trek,1499,20,2,Rainy,5546,Guesthouse,Jan - May , Sept - Dec,2022-06-29,Government Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,32
+127,Kanchenjunga Circuit Trek,1499,25,2,Snowy,5143,Guesthouse,Jan - May , Sept - Dec,2020-11-01,Government Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Non-Binary,27
+128,Everest View Trek,1499,12,2,Clear,3870,Guesthouse,Jan - May , Sept - Dec,2021-12-02,Private Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Transgender,31
+129,Tsum Valley Trek,1499,19,2,Cloudy,6000,Guesthouse,Jan - May , Sept - Dec,2021-03-28,Private Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,29
+130,The Royal Trek,1499,9,2,Clear,1730,Guesthouse,Jan - May , Sept - Dec,2021-01-29,Private Sector,2021,2,10,Guide,Poles,Leisure,None,4.5,Transgender,28
+131,Makalu Base Camp Trek,1499,22,2,Rainy,4870,Guesthouse,Jan - May , Sept - Dec,2020-07-14,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,28
+132,"Langtang, Gosainkunda And Helambu Trek",1499,17,2,Snowy,5000,Guesthouse,Jan - May , Sept - Dec,2020-10-09,Private Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Female,28
+133,Nar Phu Valley Trek,1499,19,2,Clear,5416,Guesthouse,Jan - May , Sept - Dec,2021-05-10,Private Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Transgender,25
+134,Annapurna Circle Trek,1499,14,2,Cloudy,5416,Guesthouse,Jan - May , Sept - Dec,2022-03-23,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,28
+135,Everest Kangshung Face Trek,1499,21,2,Clear,5320,Guesthouse,Jan - May , Sept - Dec,2022-10-28,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Transgender,28
+136,Tsum Valley And Manaslu Trek,1499,27,2,Rainy,4460,Guesthouse,Jan - May , Sept - Dec,2020-09-08,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,29
+137,Khopra Ridge Community Trek,1499,13,2,Snowy,4500,Guesthouse,Jan - May , Sept - Dec,2023-02-16,Private Sector,2023,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,29
+138,Nepal Experience Tour Trek,1499,12,1,Clear,3210,Guesthouse,Jan - May , Sept - Dec,2022-07-04,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Transgender,28
+139,Annapurna Circuit Trek,1499,20,2,Cloudy,5416,Guesthouse,Jan - May , Sept - Dec,2022-04-14,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,35
+140,Annapurna With Tilicho Lake Trek,1499,17,2,Rainy,5416,Guesthouse,Jan - May , Sept - Dec,2023-06-24,Private Sector,2023,1,8,No Guide,No,Adventure,No,4.0,Transgender,28
+141,Langtang Valley Trek,1499,14,2,Rainy,5122,Guesthouse,Jan - May , Sept - Dec,2023-05-08,Private Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,25
+142,Tamang Heritage Trek,1499,14,2,Snowy,3870,Guesthouse,Jan - May , Sept - Dec,2022-05-26,Government Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Female,32
+143,Manaslu And Annapurna Trek,1499,25,2,Clear,5416,Guesthouse,Jan - May , Sept - Dec,2020-03-17,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,26
+144,Everest Himalaya Heli Tour Trek,1499,7,2,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2020-09-20,Private Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,31
+145,Nepal Hiking And Culture Tour Trek,1499,8,2,Clear,1550,Guesthouse,Jan - May , Sept - Dec,2021-11-17,Private Sector,2021,2,10,Guide,Poles,Leisure,None,4.5,Transgender,28
+146,Annapurna Sunrise And Everest View Trek,1499,17,2,Rainy,3870,Guesthouse,Jan - May , Sept - Dec,2022-06-30,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,30
+147,Tenzing Hillary Everest Marathon Trek,1499,20,2,Snowy,5545,Guesthouse,Jan - May , Sept - Dec,2020-09-17,Government Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,31
+148,Everest Base Camp Trek,1450,16,3,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2023-03-31,Private Sector,2023,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,25
+149,Everest Kalapathar Trek,1390,15,3,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2021-08-14,Private Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,28
+150,Everest Panorama Trek,1040,10,2,Clear,3860,Guesthouse,Jan - May , Sept - Dec,2022-05-03,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Transgender,28
+151,Everest Base Camp Trek,1530,19,3,Rainy,5545,Guesthouse,Jan - May , Sept - Dec,2022-01-27,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,29
+152,Gokyo Lake Trek,1190,13,2,Snowy,5357,Guesthouse,Jan - May , Sept - Dec,2021-12-07,Private Sector,2021,3,12,Guide,Oxygen,Charity,None,5.0,Male,28
+153,Everest Base Camp Heli Trek,3600,9,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2021-10-28,Private Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Female,25
+154,Annapurna Circuit Trek,1100,19,3,Cloudy,5416,Guesthouse,Jan - May , Sept - Dec,2022-09-07,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,28
+155,Annapurna Base Camp Trek,1090,16,2,Clear,4130,Guesthouse,Jan - May , Sept - Dec,2021-05-19,Private Sector,2021,1,8,No Guide,No,Adventure,No,4.0,Transgender,34
+156,Ghorepani Poon Hill Trek,450,10,1,Rainy,3210,Guesthouse,Jan - May , Sept - Dec,2021-08-22,Private Sector,2021,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,28
+157,Upper Mustang Trek,2100,17,3,Snowy,4200,Guesthouse,Jan - May , Sept - Dec,2022-10-14,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Male,28
+158,Mardi Himal Trek,590,9,2,Clear,4500,Guesthouse,Jan - May , Sept - Dec,2022-09-06,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Female,31
+159,Langtang Valley Trek,690,11,2,Cloudy,4773,Guesthouse,Jan - May , Sept - Dec,2022-02-05,Government Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,27
+160,Manaslu Circuit Trek,1190,17,3,Clear,5220,Guesthouse,Jan - May , Sept - Dec,2022-10-24,Government Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Female,31
+161,Annapurna Base Camp Trek,1090,14,2,Rainy,4210,Guesthouse,March - May , Sept - Dec,2023-07-30,Private Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,34
+162,Annapurna Base Camp Short Trek,1090,11,2,Snowy,4210,Teahouse,March - May , Sept - Dec,2023-05-19,Private Sector,2023,3,12,Guide,Oxygen,Charity,None,5.0,Male,34
+163,Instant Annapurna Base Camp Trek,980,9,2,Clear,4230,Guesthouse,March - May , Sept - Dec.,2022-10-01,Government Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Male,32
+164,Annapurna Base Camp Heli Trek,1750,9,2,Cloudy,4210,Teahouse,March - May , Sept - Dec,2023-05-27,Government Sector,2023,1,6,No Guide,None,Adventure,Minor Injury,3.5,Transgender,28
+165,Mardi Himal Trek,850,9,2,Clear,4200,Guesthouse,March - May , Sept - Dec,2021-12-31,Government Sector,2021,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,33
+166,Mardi Himal Trek,850,8,2,Rainy,4200,Guesthouse,March-May , Sept-Dec.,2023-08-01,Private Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,28
+167,Classic Annapurna Circuit Trek,1350,18,2,Snowy,5416,Teahouse,March - May , Sept - Nov,2022-11-18,Government Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Female,31
+168,Annapurna Circuit Trek,1250,14,2,Clear,5416,Teahouse,March-May , Sept-Dec,2021-08-18,Government Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Transgender,27
+169,Annapurna Circuit Short Trek,1250,12,3,Cloudy,5416,Guesthouse,March - May , Sept - Nov.,2022-02-09,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,25
+170,Annapurna Luxury Trek,1450,9,2,Clear,2012,Lodge,March - May , Setpt - Dec,2022-03-26,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Transgender,31
+171,Annapurna Panorama Trek,860,9,1,Cloudy,3210,Teahouse,Jan - May , Sept - Dec,2022-09-19,Private Sector,2022,1,8,No Guide,No,Adventure,No,4.0,Transgender,28
+172,Annapurna Tilicho Lake Trek,1450,17,3,Snowy,5416,Guesthouse,March - May , Sept - Nov,2021-02-08,Private Sector,2021,3,12,Guide,Oxygen,Charity,None,5.0,Male,27
+173,Short Annapurna Trek,590,5,1,Clear,1990,Lodge,Jan- May , Sept - Dec,2022-01-19,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,26
+174,Manaslu Circuit Trek,1450,15,3,Cloudy,5106,Guesthouse,March - May , Sept - Nov,2020-08-17,Private Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Transgender,34
+175,Manaslu Circuit Trek,1380,14,2,Clear,5220,Teahouse,March - May , Setpt - Nov,2023-01-20,Private Sector,2023,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,30
+176,Tsum Valley With Manaslu Trek,1850,20,3,Rainy,5220,Guesthouse,March - May , Sept - Nov,2023-07-13,Private Sector,2023,1,8,No Guide,No,Adventure,No,4.0,Female,34
+177,Upper Mustang Trek,2150,17,2,Snowy,4210,Guesthouse,March - May , Sept - Nov.,2022-05-10,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Female,28
+178,Upper Mustang Trek,2300,18,2,Clear,4200,Lodge,March - Nov,March - Nov,2022-09-12,Government Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Male,32
+179,Upper Mustang Tiji Festival Trek,2150,18,2,Cloudy,4210,Teahouse,March - May , Sept - Nov,2023-03-05,Private Sector,2023,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,26
+180,Langtang Valley Trek,750,10,2,Clear,5050,Teahouse,March-May , Sept-Dec,2021-06-05,Private Sector,2021,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,28
+181,Langtang Gosaikunda Trek,1180,16,2,Rainy,4600,Guesthouse,March - May , Sept - Dec,2023-03-01,Private Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,26
+182,Tamang Heritage Trek,920,14,2,Snowy,5050,Guesthouse,March - May , Sept - Dec,2022-08-10,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Male,35
+183,Tamang Heritage Trail Trek,750,8,1,Clear,2607,Teahouse/Lodge,Jan - May , Sept - Dec,2020-11-30,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Transgender,25
+184,Helambu Trek,780,9,1,Cloudy,3650,Guesthouse,Jan - May , Sept- Dec,2023-06-17,Government Sector,2023,1,6,No Guide,None,Adventure,Minor Injury,3.5,Transgender,25
+185,Annapurna Base Camp Trek,1499,11,2,Clear,4130,Guesthouse,Jan - May , Sept - Dec,2020-04-15,Government Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Transgender,28
+186,Everest Base Camp Trek,1750,14,2,Rainy,5545,Guesthouse,Jan - May , Sept - Dec,2020-09-09,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,28
+187,Everest Base Camp Short Trek,1499,14,2,Snowy,5545,Guesthouse,Jan - May , Sept - Dec,2022-09-24,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Non-Binary,28
+188,Everest Base Camp Trek,1499,16,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2021-02-22,Government Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Male,26
+189,Annapurna Circuit Trek,1499,17,2,Cloudy,5416,Guesthouse,Jan - May , Sept - Dec,2020-08-02,Private Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,26
+190,Everest Base Camp Luxury Lodge Trek,1499,15,2,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2020-03-12,Government Sector,2020,1,8,No Guide,No,Adventure,No,4.0,Female,27
+191,Everest Base Camp Trek,1499,18,2,Rainy,5545,Guesthouse,Jan - May , Sept - Dec,2020-05-31,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,30
+192,Upper Mustang Trek,1499,17,2,Snowy,3870,Guesthouse,Jan - May , Sept - Dec,2023-03-12,Private Sector,2023,3,12,Guide,Oxygen,Charity,None,5.0,Non-Binary,28
+193,Everest Advanced Base Camp Trek,1499,18,2,Clear,6340,Guesthouse,Jan - May , Sept - Dec,2020-09-13,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Male,34
+194,Gokyo Lakes And Gokyo Ri Trek,1499,14,2,Cloudy,5357,Guesthouse,Jan - May , Sept - Dec,2023-03-04,Government Sector,2023,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,33
+195,Mardi Himal Trek,1499,10,2,Clear,3540,Guesthouse,Jan - May , Sept - Dec,2021-11-27,Private Sector,2021,2,10,Guide,Poles,Leisure,None,4.5,Transgender,25
+196,Manaslu Circuit Trek,1499,18,2,Rainy,5160,Guesthouse,Jan - May , Sept - Dec,2020-10-05,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,34
+197,Langtang Valley Trek,1499,11,2,Snowy,5000,Guesthouse,Jan - May , Sept - Dec,2022-04-11,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,29
+198,Annapurna Sanctuary Trek,1499,14,2,Clear,4130,Guesthouse,Jan - May , Sept - Dec,2020-02-10,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Transgender,25
+199,Rara Lake Trek,1499,15,2,Cloudy,3055,Guesthouse,Jan - May , Sept - Dec,2020-04-03,Private Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,30
+200,Everest High Passes Trek,1499,20,2,Cloudy,5546,Guesthouse,Jan - May , Sept - Dec,2022-01-15,Government Sector,2022,1,8,No Guide,No,Adventure,No,4.0,Male,27
+201,Kanchenjunga Circuit Trek,1499,25,2,Rainy,5143,Guesthouse,Jan - May , Sept - Dec,2022-10-10,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,31
+202,Everest View Trek,1499,12,2,Snowy,3870,Guesthouse,Jan - May , Sept - Dec,2023-08-07,Private Sector,2023,3,12,Guide,Oxygen,Charity,None,5.0,Female,28
+203,Tsum Valley Trek,1499,19,2,Clear,6000,Guesthouse,Jan - May , Sept - Dec,2022-02-05,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,28
+204,The Royal Trek,1499,9,2,Cloudy,1730,Guesthouse,Jan - May , Sept - Dec,2020-09-18,Government Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,32
+205,Makalu Base Camp Trek,1499,22,2,Clear,4870,Guesthouse,Jan - May , Sept - Dec,2022-12-11,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Male,29
+206,"Langtang, Gosainkunda And Helambu Trek",1499,17,2,Rainy,5000,Guesthouse,Jan - May , Sept - Dec,2021-03-03,Private Sector,2021,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,25
+207,Nar Phu Valley Trek,1499,19,2,Snowy,5416,Guesthouse,Jan - May , Sept - Dec,2022-01-21,Government Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,31
+208,Annapurna Circle Trek,1499,14,2,Clear,5416,Guesthouse,Jan - May , Sept - Dec,2022-06-16,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Transgender,29
+209,Everest Kangshung Face Trek,1499,21,2,Cloudy,5320,Guesthouse,Jan - May , Sept - Dec,2020-12-31,Private Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,25
+210,Tsum Valley And Manaslu Trek,1499,27,2,Clear,4460,Guesthouse,Jan - May , Sept - Dec,2022-11-23,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Male,28
+211,Khopra Ridge Community Trek,1499,13,2,Rainy,4500,Guesthouse,Jan - May , Sept - Dec,2022-05-26,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,27
+212,Nepal Experience Tour Trek,1499,12,1,Snowy,3210,Guesthouse,Jan - May , Sept - Dec,2022-11-17,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,28
+213,Annapurna Circuit Trek,1499,20,2,Cloudy,5416,Guesthouse,Jan - May , Sept - Dec,2020-12-20,Private Sector,2020,1,8,No Guide,No,Adventure,No,4.0,Transgender,26
+214,Annapurna With Tilicho Lake Trek,1499,17,2,Cloudy,5416,Guesthouse,Jan - May , Sept - Dec,2022-03-22,Government Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,27
+215,Langtang Valley Trek,1499,14,2,Clear,5122,Guesthouse,Jan - May , Sept - Dec,2022-03-15,Government Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Male,33
+216,Tamang Heritage Trek,1499,14,2,Rainy,3870,Guesthouse,Jan - May , Sept - Dec,2020-08-09,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,34
+217,Manaslu And Annapurna Trek,1499,25,2,Snowy,5416,Guesthouse,Jan - May , Sept - Dec,2022-05-05,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Non-Binary,28
+218,Everest Himalaya Heli Tour Trek,1499,7,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2022-04-13,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Male,26
+219,Nepal Hiking And Culture Tour Trek,1499,8,2,Cloudy,1550,Guesthouse,Jan - May , Sept - Dec,2023-06-27,Private Sector,2023,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,31
+220,Annapurna Sunrise And Everest View Trek,1499,17,2,Clear,3870,Guesthouse,Jan - May , Sept - Dec,2022-02-01,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Female,35
+221,Tenzing Hillary Everest Marathon Trek,1499,20,2,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2022-10-21,Private Sector,2022,1,8,No Guide,No,Adventure,No,4.0,Transgender,28
+222,Everest Base Camp Trek,1450,16,3,Snowy,5545,Guesthouse,Jan - May , Sept - Dec,2023-06-07,Private Sector,2023,3,12,Guide,Oxygen,Charity,None,5.0,Non-Binary,28
+223,Everest Kalapathar Trek,1390,15,3,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2020-03-25,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Transgender,30
+224,Everest Panorama Trek,1040,10,2,Cloudy,3860,Guesthouse,Jan - May , Sept - Dec,2022-02-21,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,31
+225,Everest Base Camp Trek,1530,19,3,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2022-11-04,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Female,31
+226,Gokyo Lake Trek,1190,13,2,Rainy,5357,Guesthouse,Jan - May , Sept - Dec,2020-06-13,Government Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,34
+227,Everest Base Camp Heli Trek,3600,9,2,Snowy,5545,Guesthouse,Jan - May , Sept - Dec,2021-07-03,Private Sector,2021,3,12,Guide,Oxygen,Charity,None,5.0,Male,34
+228,Annapurna Circuit Trek,1100,19,3,Clear,5416,Guesthouse,Jan - May , Sept - Dec,2022-03-15,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Female,34
+229,Annapurna Base Camp Trek,1090,16,2,Cloudy,4130,Guesthouse,Jan - May , Sept - Dec,2021-08-18,Private Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,34
+230,Ghorepani Poon Hill Trek,450,10,1,Clear,3210,Guesthouse,Jan - May , Sept - Dec,2020-04-26,Private Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Male,29
+231,Upper Mustang Trek,2100,17,3,Rainy,4200,Guesthouse,Jan - May , Sept - Dec,2022-03-13,Government Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,31
+232,Mardi Himal Trek,590,9,2,Snowy,4500,Guesthouse,Jan - May , Sept - Dec,2020-05-25,Private Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Male,28
+233,Langtang Valley Trek,690,11,2,Rainy,4773,Guesthouse,Jan - May , Sept - Dec,2022-07-16,Government Sector,2022,1,8,No Guide,No,Adventure,No,4.0,Transgender,31
+234,Manaslu Circuit Trek,1190,17,3,Cloudy,5220,Guesthouse,Jan - May , Sept - Dec,2022-02-26,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,34
+235,Annapurna Base Camp Trek,1090,14,2,Clear,4210,Guesthouse,March - May , Sept - Dec,2023-07-12,Private Sector,2023,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,30
+236,Annapurna Base Camp Short Trek,1090,11,2,Rainy,4210,Teahouse,March - May , Sept - Dec,2021-05-10,Private Sector,2021,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,26
+237,Instant Annapurna Base Camp Trek,980,9,2,Snowy,4230,Guesthouse,March - May , Sept - Dec.,2022-11-30,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Male,30
+238,Annapurna Base Camp Heli Trek,1750,9,2,Clear,4210,Teahouse,March - May , Sept - Dec,2022-05-07,Private Sector,2022,1,8,No Guide,No,Adventure,No,4.0,Non-Binary,29
+239,Mardi Himal Trek,850,9,2,Cloudy,4200,Guesthouse,March - May , Sept - Dec,2022-09-04,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,26
+240,Mardi Himal Trek,850,8,2,Clear,4200,Guesthouse,March-May , Sept-Dec.,2022-02-04,Private Sector,2022,1,8,No Guide,No,Adventure,No,4.0,Transgender,27
+241,Classic Annapurna Circuit Trek,1350,18,2,Rainy,5416,Teahouse,March - May , Sept - Nov,2021-01-27,Private Sector,2021,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,35
+242,Annapurna Circuit Trek,1250,14,2,Snowy,5416,Teahouse,March-May , Sept-Dec,2022-12-18,Government Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Male,33
+243,Annapurna Circuit Short Trek,1250,12,3,Clear,5416,Guesthouse,March - May , Sept - Nov.,2022-07-21,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Female,26
+244,Annapurna Luxury Trek,1450,9,2,Cloudy,2012,Lodge,March - May , Setpt - Dec,2022-04-05,Government Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,27
+245,Annapurna Panorama Trek,860,9,1,Clear,3210,Teahouse,Jan - May , Sept - Dec,2020-05-27,Private Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Transgender,28
+246,Annapurna Tilicho Lake Trek,1450,17,3,Rainy,5416,Guesthouse,March - May , Sept - Nov,2023-04-11,Government Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,31
+247,Short Annapurna Trek,590,5,1,Snowy,1990,Lodge,Jan- May , Sept - Dec,2020-02-29,Government Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,27
+248,Manaslu Circuit Trek,1450,15,3,Clear,5106,Guesthouse,March - May , Sept - Nov,2021-07-02,Government Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Male,34
+249,Manaslu Circuit Trek,1380,14,2,Cloudy,5220,Teahouse,March - May , Setpt - Nov,2021-08-30,Private Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,28
+250,Tsum Valley With Manaslu Trek,1850,20,3,Clear,5220,Guesthouse,March - May , Sept - Nov,2023-05-15,Private Sector,2023,1,8,No Guide,No,Adventure,No,4.0,Transgender,34
+251,Upper Mustang Trek,2150,17,2,Rainy,4210,Guesthouse,March - May , Sept - Nov.,2023-07-26,Government Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,28
+252,Upper Mustang Trek,2300,18,2,Snowy,4200,Lodge,March - Nov,March - Nov,2023-03-17,Private Sector,2023,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,29
+253,Upper Mustang Tiji Festival Trek,2150,18,2,Clear,4210,Teahouse,March - May , Sept - Nov,2021-05-19,Private Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Female,28
+254,Langtang Valley Trek,750,10,2,Cloudy,5050,Teahouse,March-May , Sept-Dec,2023-06-19,Government Sector,2023,1,6,No Guide,None,Adventure,Minor Injury,3.5,Transgender,28
+255,Langtang Gosaikunda Trek,1180,16,2,Clear,4600,Guesthouse,March - May , Sept - Dec,2020-01-04,Private Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Transgender,34
+256,Tamang Heritage Trek,920,14,2,Rainy,5050,Guesthouse,March - May , Sept - Dec,2021-02-06,Government Sector,2021,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,34
+257,Tamang Heritage Trail Trek,750,8,1,Snowy,2607,Teahouse/Lodge,Jan - May , Sept - Dec,2020-08-24,Private Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Male,33
+258,Helambu Trek,780,9,1,Clear,3650,Guesthouse,Jan - May , Sept- Dec,2021-09-20,Private Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Transgender,29
+259,Annapurna Base Camp Trek,1499,11,2,Cloudy,4130,Guesthouse,Jan - May , Sept - Dec,2020-05-20,Government Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,33
+260,Everest Base Camp Trek,1750,14,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2023-07-31,Private Sector,2023,2,10,Guide,Poles,Leisure,None,4.5,Male,26
+261,Everest Base Camp Short Trek,1499,14,2,Rainy,5545,Guesthouse,Jan - May , Sept - Dec,2020-05-31,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,28
+262,Everest Base Camp Trek,1499,16,2,Snowy,5545,Guesthouse,Jan - May , Sept - Dec,2020-10-29,Private Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Non-Binary,26
+263,Annapurna Circuit Trek,1499,17,2,Clear,5416,Guesthouse,Jan - May , Sept - Dec,2021-03-27,Private Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,35
+264,Everest Base Camp Luxury Lodge Trek,1499,15,2,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2023-04-02,Private Sector,2023,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,29
+265,Everest Base Camp Trek,1499,18,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2022-11-19,Government Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Transgender,27
+266,Upper Mustang Trek,1499,17,2,Rainy,3870,Guesthouse,Jan - May , Sept - Dec,2021-10-13,Government Sector,2021,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,31
+267,Everest Advanced Base Camp Trek,1499,18,2,Snowy,6340,Guesthouse,Jan - May , Sept - Dec,2020-02-04,Government Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Non-Binary,33
+268,Gokyo Lakes And Gokyo Ri Trek,1499,14,2,Clear,5357,Guesthouse,Jan - May , Sept - Dec,2020-03-24,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Female,34
+269,Mardi Himal Trek,1499,10,2,Cloudy,3540,Guesthouse,Jan - May , Sept - Dec,2021-01-23,Private Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Transgender,27
+270,Manaslu Circuit Trek,1499,18,2,Clear,5160,Guesthouse,Jan - May , Sept - Dec,2023-01-28,Government Sector,2023,2,10,Guide,Poles,Leisure,None,4.5,Male,34
+271,Langtang Valley Trek,1499,11,2,Rainy,5000,Guesthouse,Jan - May , Sept - Dec,2023-01-02,Government Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,35
+272,Annapurna Sanctuary Trek,1499,14,2,Snowy,4130,Guesthouse,Jan - May , Sept - Dec,2020-04-11,Private Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,28
+273,Rara Lake Trek,1499,15,2,Clear,3055,Guesthouse,Jan - May , Sept - Dec,2020-12-01,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,34
+274,Everest High Passes Trek,1499,20,2,Cloudy,5546,Guesthouse,Jan - May , Sept - Dec,2022-03-24,Government Sector,2022,1,8,No Guide,No,Adventure,No,4.0,Non-Binary,32
+275,Kanchenjunga Circuit Trek,1499,25,2,Clear,5143,Guesthouse,Jan - May , Sept - Dec,2022-10-27,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Female,26
+276,Everest View Trek,1499,12,2,Rainy,3870,Guesthouse,Jan - May , Sept - Dec,2020-07-06,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,29
+277,Tsum Valley Trek,1499,19,2,Snowy,6000,Guesthouse,Jan - May , Sept - Dec,2021-05-01,Private Sector,2021,3,12,Guide,Oxygen,Charity,None,5.0,Female,31
+278,The Royal Trek,1499,9,2,Clear,1730,Guesthouse,Jan - May , Sept - Dec,2023-05-27,Government Sector,2023,1,8,No Guide,No,Adventure,No,4.0,Transgender,32
+279,Makalu Base Camp Trek,1499,22,2,Cloudy,4870,Guesthouse,Jan - May , Sept - Dec,2021-12-29,Government Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Transgender,32
+280,"Langtang, Gosainkunda And Helambu Trek",1499,17,2,Clear,5000,Guesthouse,Jan - May , Sept - Dec,2022-06-14,Government Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Transgender,32
+281,Nar Phu Valley Trek,1499,19,2,Rainy,5416,Guesthouse,Jan - May , Sept - Dec,2023-04-10,Private Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,26
+282,Annapurna Circle Trek,1499,14,2,Snowy,5416,Guesthouse,Jan - May , Sept - Dec,2021-12-23,Private Sector,2021,3,12,Guide,Oxygen,Charity,None,5.0,Female,26
+283,Everest Kangshung Face Trek,1499,21,2,Clear,5320,Guesthouse,Jan - May , Sept - Dec,2020-11-29,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,26
+284,Tsum Valley And Manaslu Trek,1499,27,2,Cloudy,4460,Guesthouse,Jan - May , Sept - Dec,2021-12-16,Private Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,28
+285,Khopra Ridge Community Trek,1499,13,2,Clear,4500,Guesthouse,Jan - May , Sept - Dec,2023-03-19,Private Sector,2023,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,33
+286,Nepal Experience Tour Trek,1499,12,1,Rainy,3210,Guesthouse,Jan - May , Sept - Dec,2022-02-20,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,28
+287,Annapurna Circuit Trek,1499,20,2,Snowy,5416,Guesthouse,Jan - May , Sept - Dec,2022-07-26,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Female,29
+288,Annapurna With Tilicho Lake Trek,1499,17,2,Clear,5416,Guesthouse,Jan - May , Sept - Dec,2020-12-09,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Male,29
+289,Langtang Valley Trek,1499,14,2,Cloudy,5122,Guesthouse,Jan - May , Sept - Dec,2021-05-25,Private Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,26
+290,Tamang Heritage Trek,1499,14,2,Clear,3870,Guesthouse,Jan - May , Sept - Dec,2023-06-17,Government Sector,2023,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,32
+291,Manaslu And Annapurna Trek,1499,25,2,Rainy,5416,Guesthouse,Jan - May , Sept - Dec,2020-05-18,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,34
+292,Everest Himalaya Heli Tour Trek,1499,7,2,Snowy,5545,Guesthouse,Jan - May , Sept - Dec,2022-03-18,Government Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Female,27
+293,Nepal Hiking And Culture Tour Trek,1499,8,2,Clear,1550,Guesthouse,Jan - May , Sept - Dec,2021-01-23,Private Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Male,31
+294,Annapurna Sunrise And Everest View Trek,1499,17,2,Rainy,3870,Guesthouse,Jan - May , Sept - Dec,2020-09-14,Private Sector,2020,1,8,No Guide,No,Adventure,No,4.0,Male,29
+295,Tenzing Hillary Everest Marathon Trek,1499,20,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2020-12-30,Private Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,28
+296,Everest Base Camp Trek,1450,16,3,Rainy,5545,Guesthouse,Jan - May , Sept - Dec,2020-03-22,Government Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,32
+297,Everest Kalapathar Trek,1390,15,3,Snowy,5545,Guesthouse,Jan - May , Sept - Dec,2022-03-17,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,35
+298,Everest Panorama Trek,1040,10,2,Clear,3860,Guesthouse,Jan - May , Sept - Dec,2020-10-11,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Female,25
+299,Everest Base Camp Trek,1530,19,3,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2021-05-07,Private Sector,2021,1,8,No Guide,No,Adventure,No,4.0,Female,27
+300,Gokyo Lake Trek,1190,13,2,Clear,5357,Guesthouse,Jan - May , Sept - Dec,2020-04-17,Government Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,32
+301,Everest Base Camp Heli Trek,3600,9,2,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2022-02-17,Government Sector,2022,1,8,No Guide,No,Adventure,No,4.0,Female,27
+302,Annapurna Circuit Trek,1100,19,3,Snowy,5416,Guesthouse,Jan - May , Sept - Dec,2021-06-10,Private Sector,2021,3,12,Guide,Oxygen,Charity,None,5.0,Female,34
+303,Annapurna Base Camp Trek,1090,16,2,Clear,4130,Guesthouse,Jan - May , Sept - Dec,2023-04-21,Government Sector,2023,2,5,Guide,Poles,Leisure,None,4.0,Male,31
+304,Ghorepani Poon Hill Trek,450,10,1,Cloudy,3210,Guesthouse,Jan - May , Sept - Dec,2022-12-21,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,34
+305,Upper Mustang Trek,2100,17,3,Clear,4200,Guesthouse,Jan - May , Sept - Dec,2022-04-08,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Transgender,26
+306,Mardi Himal Trek,590,9,2,Rainy,4500,Guesthouse,Jan - May , Sept - Dec,2023-04-05,Government Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,33
+307,Langtang Valley Trek,690,11,2,Rainy,4773,Guesthouse,Jan - May , Sept - Dec,2023-08-11,Private Sector,2023,1,8,No Guide,No,Adventure,No,4.0,Transgender,28
+308,Manaslu Circuit Trek,1190,17,3,Clear,5220,Guesthouse,Jan - May , Sept - Dec,2023-05-12,Private Sector,2023,1,8,No Guide,No,Adventure,No,4.0,Female,34
+309,Annapurna Base Camp Trek,1090,14,2,Cloudy,4210,Guesthouse,March - May , Sept - Dec,2021-05-10,Government Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,33
+310,Annapurna Base Camp Short Trek,1090,11,2,Clear,4210,Teahouse,March - May , Sept - Dec,2020-10-04,Private Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Female,30
+311,Instant Annapurna Base Camp Trek,980,9,2,Rainy,4230,Guesthouse,March - May , Sept - Dec.,2022-12-18,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,34
+312,Annapurna Base Camp Heli Trek,1750,9,2,Snowy,4210,Teahouse,March - May , Sept - Dec,2022-06-24,Government Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Non-Binary,32
+313,Mardi Himal Trek,850,9,2,Clear,4200,Guesthouse,March - May , Sept - Dec,2020-01-28,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Male,25
+314,Mardi Himal Trek,850,8,2,Cloudy,4200,Guesthouse,March-May , Sept-Dec.,2022-01-24,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Transgender,26
+315,Classic Annapurna Circuit Trek,1350,18,2,Clear,5416,Teahouse,March - May , Sept - Nov,2020-08-20,Government Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Male,28
+316,Annapurna Circuit Trek,1250,14,2,Rainy,5416,Teahouse,March-May , Sept-Dec,2022-03-09,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,31
+317,Annapurna Circuit Short Trek,1250,12,3,Snowy,5416,Guesthouse,March - May , Sept - Nov.,2022-10-02,Government Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Male,32
+318,Annapurna Luxury Trek,1450,9,2,Cloudy,2012,Lodge,March - May , Setpt - Dec,2021-09-15,Government Sector,2021,1,8,No Guide,No,Adventure,No,4.0,Male,34
+319,Annapurna Panorama Trek,860,9,1,Cloudy,3210,Teahouse,Jan - May , Sept - Dec,2022-03-11,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,25
+320,Annapurna Tilicho Lake Trek,1450,17,3,Clear,5416,Guesthouse,March - May , Sept - Nov,2020-12-12,Private Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Transgender,35
+321,Short Annapurna Trek,590,5,1,Rainy,1990,Lodge,Jan- May , Sept - Dec,2022-09-28,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,28
+322,Manaslu Circuit Trek,1450,15,3,Snowy,5106,Guesthouse,March - May , Sept - Nov,2020-11-24,Private Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Female,28
+323,Manaslu Circuit Trek,1380,14,2,Clear,5220,Teahouse,March - May , Setpt - Nov,2021-09-18,Private Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Male,33
+324,Tsum Valley With Manaslu Trek,1850,20,3,Clear,5220,Guesthouse,March - May , Sept - Nov,2020-12-04,Government Sector,2020,1,8,No Guide,No,Adventure,No,4.0,Male,28
+325,Upper Mustang Trek,2150,17,2,Clear,4210,Guesthouse,March - May , Sept - Nov.,2023-02-01,Private Sector,2023,2,10,Guide,Poles,Leisure,None,4.5,Female,31
+326,Upper Mustang Trek,2300,18,2,Rainy,4200,Lodge,March - Nov,March - Nov,2020-02-01,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Non-Binary,28
+327,Upper Mustang Tiji Festival Trek,2150,18,2,Clear,4210,Teahouse,March - May , Sept - Nov,2021-03-30,Government Sector,2021,1,8,No Guide,No,Adventure,No,4.0,Non-Binary,34
+328,Langtang Valley Trek,750,10,2,Clear,5050,Teahouse,March-May , Sept-Dec,2022-08-20,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Female,34
+329,Langtang Gosaikunda Trek,1180,16,2,Cloudy,4600,Guesthouse,March - May , Sept - Dec,2020-06-20,Private Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,28
+330,Tamang Heritage Trek,920,14,2,Clear,5050,Guesthouse,March - May , Sept - Dec,2020-04-26,Private Sector,2020,2,10,Guide,Poles,Leisure,None,4.5,Male,35
+331,Tamang Heritage Trail Trek,750,8,1,Rainy,2607,Teahouse/Lodge,Jan - May , Sept - Dec,2020-11-29,Private Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,33
+332,Helambu Trek,780,9,1,Snowy,3650,Guesthouse,Jan - May , Sept- Dec,2020-01-25,Private Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Non-Binary,31
+333,Annapurna Base Camp Trek,1499,11,2,Clear,4130,Guesthouse,Jan - May , Sept - Dec,2021-06-11,Private Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Female,31
+334,Everest Base Camp Trek,1750,14,2,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2020-09-17,Private Sector,2020,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,29
+335,Everest Base Camp Short Trek,1499,14,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2021-04-10,Private Sector,2021,2,10,Guide,Poles,Leisure,None,4.5,Male,28
+336,Everest Base Camp Trek,1499,16,2,Rainy,5545,Guesthouse,Jan - May , Sept - Dec,2022-01-05,Government Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,32
+337,Annapurna Circuit Trek,1499,17,2,Snowy,5416,Guesthouse,Jan - May , Sept - Dec,2020-07-19,Private Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Female,30
+338,Everest Base Camp Luxury Lodge Trek,1499,15,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2020-11-12,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Transgender,28
+339,Everest Base Camp Trek,1499,18,2,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2022-08-31,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,29
+340,Upper Mustang Trek,1499,17,2,Clear,3870,Guesthouse,Jan - May , Sept - Dec,2021-09-29,Private Sector,2021,2,10,Guide,Poles,Leisure,None,4.5,Male,27
+341,Everest Advanced Base Camp Trek,1499,18,2,Rainy,6340,Guesthouse,Jan - May , Sept - Dec,2023-03-28,Private Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Transgender,28
+342,Gokyo Lakes And Gokyo Ri Trek,1499,14,2,Snowy,5357,Guesthouse,Jan - May , Sept - Dec,2023-04-24,Private Sector,2023,3,12,Guide,Oxygen,Charity,None,5.0,Female,28
+343,Mardi Himal Trek,1499,10,2,Rainy,3540,Guesthouse,Jan - May , Sept - Dec,2021-07-09,Private Sector,2021,1,8,No Guide,No,Adventure,No,4.0,Non-Binary,28
+344,Manaslu Circuit Trek,1499,18,2,Cloudy,5160,Guesthouse,Jan - May , Sept - Dec,2021-12-07,Government Sector,2021,1,6,No Guide,None,Adventure,Minor Injury,3.5,Male,32
+345,Langtang Valley Trek,1499,11,2,Clear,5000,Guesthouse,Jan - May , Sept - Dec,2022-06-11,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Transgender,29
+346,Annapurna Sanctuary Trek,1499,14,2,Clear,4130,Guesthouse,Jan - May , Sept - Dec,2023-04-22,Private Sector,2023,1,8,No Guide,No,Adventure,No,4.0,Female,25
+347,Rara Lake Trek,1499,15,2,Snowy,3055,Guesthouse,Jan - May , Sept - Dec,2022-05-29,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Female,34
+348,Everest High Passes Trek,1499,20,2,Cloudy,5546,Guesthouse,Jan - May , Sept - Dec,2020-11-26,Private Sector,2020,1,8,No Guide,No,Adventure,No,4.0,Transgender,31
+349,Kanchenjunga Circuit Trek,1499,25,2,Cloudy,5143,Guesthouse,Jan - May , Sept - Dec,2022-07-04,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,28
+350,Everest View Trek,1499,12,2,Clear,3870,Guesthouse,Jan - May , Sept - Dec,2022-12-07,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,31
+351,Tsum Valley Trek,1499,19,2,Rainy,6000,Guesthouse,Jan - May , Sept - Dec,2022-03-06,Private Sector,2022,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,29
+352,The Royal Trek,1499,9,2,Snowy,1730,Guesthouse,Jan - May , Sept - Dec,2020-11-21,Private Sector,2020,3,12,Guide,Oxygen,Charity,None,5.0,Non-Binary,31
+353,Makalu Base Camp Trek,1499,22,2,Clear,4870,Guesthouse,Jan - May , Sept - Dec,2023-07-06,Government Sector,2023,2,5,Guide,Poles,Leisure,None,4.0,Female,31
+354,"Langtang, Gosainkunda And Helambu Trek",1499,17,2,Clear,5000,Guesthouse,Jan - May , Sept - Dec,2022-05-13,Private Sector,2022,1,8,No Guide,No,Adventure,No,4.0,Transgender,25
+355,Nar Phu Valley Trek,1499,19,2,Clear,5416,Guesthouse,Jan - May , Sept - Dec,2023-06-09,Private Sector,2023,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,28
+356,Annapurna Circle Trek,1499,14,2,Rainy,5416,Guesthouse,Jan - May , Sept - Dec,2023-05-06,Private Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,34
+357,Everest Kangshung Face Trek,1499,21,2,Snowy,5320,Guesthouse,Jan - May , Sept - Dec,2023-01-18,Private Sector,2023,3,12,Guide,Oxygen,Charity,None,5.0,Transgender,34
+358,Tsum Valley And Manaslu Trek,1499,27,2,Clear,4460,Guesthouse,Jan - May , Sept - Dec,2022-05-15,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,34
+359,Khopra Ridge Community Trek,1499,13,2,Cloudy,4500,Guesthouse,Jan - May , Sept - Dec,2023-01-25,Private Sector,2023,1,6,No Guide,None,Adventure,Minor Injury,3.5,Non-Binary,25
+360,Nepal Experience Tour Trek,1499,12,1,Clear,3210,Guesthouse,Jan - May , Sept - Dec,2023-01-10,Private Sector,2023,2,10,Guide,Poles,Leisure,None,4.5,Female,28
+361,Annapurna Circuit Trek,1499,20,2,Rainy,5416,Guesthouse,Jan - May , Sept - Dec,2023-05-11,Private Sector,2023,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,29
+362,Annapurna With Tilicho Lake Trek,1499,17,2,Snowy,5416,Guesthouse,Jan - May , Sept - Dec,2022-11-01,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Male,28
+363,Langtang Valley Trek,1499,14,2,Clear,5122,Guesthouse,Jan - May , Sept - Dec,2021-09-04,Government Sector,2021,2,5,Guide,Poles,Leisure,None,4.0,Female,34
+364,Tamang Heritage Trek,1499,14,2,Cloudy,3870,Guesthouse,Jan - May , Sept - Dec,2022-05-18,Government Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,31
+365,Manaslu And Annapurna Trek,1499,25,2,Clear,5416,Guesthouse,Jan - May , Sept - Dec,2023-08-03,Private Sector,2023,2,10,Guide,Poles,Leisure,None,4.5,Transgender,25
+366,Everest Himalaya Heli Tour Trek,1499,7,2,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2022-02-21,Government Sector,2022,1,8,No Guide,No,Adventure,No,4.0,Male,28
+367,Nepal Hiking And Culture Tour Trek,1499,8,2,Snowy,1550,Guesthouse,Jan - May , Sept - Dec,2022-04-24,Government Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Female,31
+368,Annapurna Sunrise And Everest View Trek,1499,17,2,Clear,3870,Guesthouse,Jan - May , Sept - Dec,2020-01-30,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,35
+369,Tenzing Hillary Everest Marathon Trek,1499,20,2,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2022-09-10,Government Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,32
+370,Everest Base Camp Trek,1450,16,3,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2022-11-15,Government Sector,2022,1,8,No Guide,No,Adventure,No,4.0,Female,31
+371,Everest Kalapathar Trek,1390,15,3,Cloudy,5545,Guesthouse,Jan - May , Sept - Dec,2020-09-24,Government Sector,2020,1,8,No Guide,No,Adventure,No,4.0,Non-Binary,27
+372,Everest Panorama Trek,1040,10,2,Snowy,3860,Guesthouse,Jan - May , Sept - Dec,2021-05-18,Private Sector,2021,3,12,Guide,Oxygen,Charity,None,5.0,Female,29
+373,Everest Base Camp Trek,1530,19,3,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2020-09-18,Private Sector,2020,2,5,Guide,Poles,Leisure,None,4.0,Non-Binary,28
+374,Gokyo Lake Trek,1190,13,2,Cloudy,5357,Guesthouse,Jan - May , Sept - Dec,2022-04-10,Government Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Transgender,28
+375,Everest Base Camp Heli Trek,3600,9,2,Clear,5545,Guesthouse,Jan - May , Sept - Dec,2022-01-15,Private Sector,2022,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,28
+376,Annapurna Circuit Trek,1100,19,3,Rainy,5416,Guesthouse,Jan - May , Sept - Dec,2020-12-19,Government Sector,2020,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Male,31
+377,Annapurna Base Camp Trek,1090,16,2,Snowy,4130,Guesthouse,Jan - May , Sept - Dec,2022-09-01,Private Sector,2022,3,12,Guide,Oxygen,Charity,None,5.0,Male,27
+378,Ghorepani Poon Hill Trek,450,10,1,Clear,3210,Guesthouse,Jan - May , Sept - Dec,2022-08-09,Private Sector,2022,2,5,Guide,Poles,Leisure,None,4.0,Male,25
+379,Upper Mustang Trek,2100,17,3,Cloudy,4200,Guesthouse,Jan - May , Sept - Dec,2022-09-09,Private Sector,2022,1,6,No Guide,None,Adventure,Minor Injury,3.5,Female,27
+380,Mardi Himal Trek,590,9,2,Clear,4500,Guesthouse,Jan - May , Sept - Dec,2021-05-04,Private Sector,2021,2,10,Guide,Poles,Leisure,None,4.5,Non-Binary,28
+381,Langtang Valley Trek,690,11,2,Rainy,4773,Guesthouse,Jan - May , Sept - Dec,2021-01-13,Private Sector,2021,1,8,No Guide,None,Adventure,Altitude Sickness,3.0,Female,29
+382,Manaslu Circuit Trek,1190,17,3,Snowy,5220,Guesthouse,Jan - May , Sept - Dec,2025-05-13,Private Sector,2025,3,12,Guide,Oxygen,Charity,None,5.0,Female,31
