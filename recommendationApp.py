@@ -8,8 +8,15 @@ import seaborn as sns
 import plotly.express as px
 import base64
 
+# Function to create a star rating with yellow stars
+def display_stars(rating):
+    full_star = '<span style="color:gold;">★</span>'
+    empty_star = '<span style="color:gray;">☆</span>'
+    stars = full_star * int(rating) + empty_star * (5 - int(rating))
+    return stars
+
 # Set wide layout for better screen space usage
-st.set_page_config(layout="wide")
+# st.set_page_config(layout="wide")
 
 # Helper function to load CSS
 def local_css(file_name):
@@ -33,7 +40,7 @@ st.markdown(
     <style>
     .banner {{
         position: relative;
-        height: 500px;
+        height: 400px;
         width: 100%;
         background-image: url("data:image/png;base64,{image_base64}");
         background-size: cover;
@@ -57,10 +64,10 @@ st.markdown(
 )
 
 # Load the models and dataset
-knn_model = joblib.load('trek_recommender_model.pkl')
-scaler = joblib.load('scaler.pkl')
-rf_cost_model = joblib.load('cost_prediction_model.pkl')
-cost_scaler = joblib.load('cost_scaler.pkl')
+knn_model = joblib.load('trek_recommender_model.pkl')  # Correct model path for KNN recommendation
+scaler = joblib.load('trek_recommend_scaler.pkl')      # Correct scaler for KNN model
+rf_cost_model = joblib.load('cost_prediction_model.pkl')  # Correct model path for cost prediction
+cost_scaler = joblib.load('cost_scaler.pkl')           # Correct scaler for cost prediction
 dataset = pd.read_csv('NoteBook/CleanedTrekDataset.csv')
 
 # Create tabs for different sections, including a homepage
@@ -96,7 +103,7 @@ with tabs[0]:
 
 with tabs[1]:
     st.header("Trek Recommendation System")
-    st.markdown('<div class="stCard">', unsafe_allow_html=True)
+    # st.markdown('<div class="card">', unsafe_allow_html=True)
 
     # Two-column layout for the input form
     col1, col2 = st.columns(2)
@@ -114,7 +121,9 @@ with tabs[1]:
 
     if st.button('Get Trek Recommendations', key="recommend_button"):
         input_data = np.array([[cost, time, altitude, fitness_level, guide_numeric, group_size]])
-        input_scaled = scaler.transform(input_data)
+        input_scaled = scaler.transform(input_data)  # Use the correct scaler
+
+        # Get the nearest neighbors from the KNN model
         distances, indices = knn_model.kneighbors(input_scaled)
 
         # Apply custom style for cards
@@ -145,9 +154,12 @@ with tabs[1]:
             </style>
         """, unsafe_allow_html=True)
 
-        # Display trek recommendations as cards
+        # Display trek recommendations as cards with yellow star ratings
         for idx in indices[0]:
             trek_info = dataset.iloc[idx]
+            trek_rating = trek_info['Rating']  # Assuming the column for rating is 'Rating'
+            trek_stars = display_stars(trek_rating)  # Convert rating to yellow stars
+
             st.markdown(f"""
             <div class="trek-card">
                 <h4>{trek_info['Trek']}</h4>
@@ -156,9 +168,10 @@ with tabs[1]:
                 <p><strong>Max Altitude:</strong> {trek_info['Max_Altitude']} meters</p>
                 <p><strong>Group Size:</strong> {trek_info['Trekking_GroupSize']}</p>
                 <p><strong>Guide:</strong> {'Guide' if trek_info['Guide_or_no_guide'] == 1 else 'No Guide'}</p>
+                <p><strong>Rating:</strong> {trek_stars}</p>
             </div>
             """, unsafe_allow_html=True)
-    st.markdown('</div>', unsafe_allow_html=True)
+
 
 # ---------------------------------------------------
 # TREK COST PREDICTION SYSTEM (Third Tab)
@@ -166,7 +179,7 @@ with tabs[1]:
 
 with tabs[2]:
     st.header("Trek Cost Prediction (Random Forest)")
-    st.markdown('<div class="stCard">', unsafe_allow_html=True)
+    # st.markdown('<div class="stCard">', unsafe_allow_html=True)
 
     # Two-column layout for the cost prediction form
     col1, col2 = st.columns(2)
@@ -181,7 +194,7 @@ with tabs[2]:
 
     if st.button('Predict Trek Cost', key="cost_button"):
         input_data_cost = np.array([[time_input, altitude_input, fitness_level_input, group_size_input]])
-        input_scaled_cost = cost_scaler.transform(input_data_cost)
+        input_scaled_cost = cost_scaler.transform(input_data_cost)  # Use the correct cost scaler
         predicted_cost = rf_cost_model.predict(input_scaled_cost)
         st.subheader(f"Predicted Trek Cost: ${predicted_cost[0]:,.2f}")
     st.markdown('</div>', unsafe_allow_html=True)
@@ -192,7 +205,8 @@ with tabs[2]:
 
 with tabs[3]:
     st.header("Trekking Data Visualizations")
-    st.markdown('<div class="stCard">', unsafe_allow_html=True)
+    # st.markdown('<div class="stCard">', unsafe_allow_html=True)
+
 
     # Bar chart: Average cost per fitness level
     fitness_cost_df = dataset.groupby('Fitness_Level')['Cost'].mean().reset_index()
@@ -222,4 +236,5 @@ with tabs[3]:
     best_travel_df.columns = ['Best Travel Time', 'Frequency']
     fig = px.bar(best_travel_df, x='Best Travel Time', y='Frequency', title="Best Time to Travel by Frequency")
     st.plotly_chart(fig)
+    
     st.markdown('</div>', unsafe_allow_html=True)

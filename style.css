@@ -20,20 +20,29 @@
 .stTabs [role="tablist"] {
     margin-top: 40px;
     margin-bottom: 30px;
-    font-size: 20px; /* Increase the font size of the tabs */
-    color: red;
 }
 
 /* Individual tab item customization */
 .stTabs [role="tab"] {
-    padding: 10px 10px; /* Increase padding for each tab */
-    margin-left: 20px; /* Add some spacing between tabs */
-    margin-right: 20px;
+    padding: 10px 18px; /* Increase padding for each tab */
+}
+
+.stTabs [data-baseweb="tab-list"] button [data-testid="stMarkdownContainer"] p {
+    font-size:1rem;
+    color: #fff;
+}
+
+.stTabs [data-baseweb="tab-highlight"] {
+    background-color: #ffffff00;
 }
 
 /* Selected tab underline customization */
 .stTabs [role="tab"][aria-selected="true"] {
-    border-bottom: 4px solid #ff4b4b; /* Increase the thickness and width of the underline */
+    border: none;
+    background-color: #e57f36;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 200px;
 }
 
 /* Body background color */
@@ -43,7 +52,7 @@ body {
 
 /* Heading colors and font */
 h1, h2, h3 {
-    color: #2C3E50;
+    color: #e57f36;
     font-family: 'Arial', sans-serif;
 }
 
@@ -69,6 +78,15 @@ h1 {
 }
 
 /* Form Card Design */
+.card {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
+    height: 5px;
+}
+
 .stCard {
     background-color: white;
     padding: 20px;
@@ -83,7 +101,7 @@ h1 {
 
 /* Form input styling */
 input, select, textarea, .stNumberInput, .stSelectbox, .stSlider {
-    border-radius: 10px;
+    border-radius: 20px;
     border: 1px solid #ddd;
     padding: 10px;
     background-color: #f9f9f9;
@@ -98,6 +116,6 @@ input, select, textarea, .stNumberInput, .stSelectbox, .stSlider {
 
 /* General paragraph text */
 p {
-    font-size: 16px;
+    font-size: 18px;
     color: #34495e;
 }
