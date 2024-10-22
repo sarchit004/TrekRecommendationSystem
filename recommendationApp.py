@@ -205,36 +205,107 @@ with tabs[2]:
 
 with tabs[3]:
     st.header("Trekking Data Visualizations")
-    # st.markdown('<div class="stCard">', unsafe_allow_html=True)
 
-
-    # Bar chart: Average cost per fitness level
-    fitness_cost_df = dataset.groupby('Fitness_Level')['Cost'].mean().reset_index()
-    st.subheader("Average Trek Cost by Fitness Level")
-    fig, ax = plt.subplots()
-    sns.barplot(x='Fitness_Level', y='Cost', data=fitness_cost_df, ax=ax)
-    ax.set_xlabel("Fitness Level")
-    ax.set_ylabel("Average Cost")
-    st.pyplot(fig)
-
-    # Line graph: Trek cost over time
+    # Description for Trek Costs Over Time
     st.subheader("Trek Costs Over Time")
+    st.markdown("""
+    This line graph shows the average trekking costs over the years. It helps you understand 
+    how trekking prices have evolved over time, possibly due to inflation, demand, or changes in trek services. 
+    Hover over the graph to see exact values for each year.
+    """)
     cost_time_df = dataset.groupby('year')['Cost'].mean().reset_index()
-    fig = px.line(cost_time_df, x='year', y='Cost', title="Average Trek Cost Over the Years")
+    fig = px.line(
+        cost_time_df, 
+        x='year', 
+        y='Cost', 
+        title="Average Trek Cost Over the Years",
+        labels={'year': 'Year', 'Cost': 'Average Trek Cost (USD)'},
+        markers=True,
+        line_shape="spline"  # Smooth transitions
+    )
+    fig.update_traces(line=dict(color="royalblue", width=3))  # Modern color and width
+    fig.update_layout(
+        template="plotly_dark",  # Modern dark theme
+        hovermode="x unified",   # Unified hover effect
+        title_font_size=20,      # Bigger title for emphasis
+        xaxis_title_font_size=16,
+        yaxis_title_font_size=16
+    )
     st.plotly_chart(fig)
-    
-    # Scatter plot: Trek cost vs group size
-    fig, ax = plt.subplots()
-    ax.scatter(dataset['Trekking_GroupSize'], dataset['Cost'], alpha=0.5)
-    ax.set_xlabel("Group Size")
-    ax.set_ylabel("Trek Cost")
-    st.pyplot(fig)
 
-    # Plotly bar chart: Best travel time frequency
+    # Description for Trek Cost vs Group Size
+    st.subheader("Trek Cost vs Group Size")
+    st.markdown("""
+    This scatter plot shows the relationship between trek costs and group size. You can explore how different group sizes 
+    impact the overall trek cost. Hover over each point to see additional details such as the trek name, altitude, and weather conditions. 
+    """)
+    fig = px.scatter(
+        dataset, 
+        x='Trekking_GroupSize', 
+        y='Cost', 
+        title="Trek Cost by Group Size",
+        labels={'Trekking_GroupSize': 'Group Size', 'Cost': 'Trek Cost (USD)'},
+        hover_data=['Trek', 'Max_Altitude', 'Weather_Conditions'],  # Additional hover data
+        color='Rating',  # Add color based on Rating to make it more vibrant
+        color_continuous_scale=px.colors.sequential.Viridis  # Attractive color scale
+    )
+    fig.update_layout(
+        template="plotly_white",  # Clean modern white theme
+        hovermode="closest",      # Detailed hover for each point
+        title_font_size=20,
+        xaxis_title_font_size=16,
+        yaxis_title_font_size=16
+    )
+    st.plotly_chart(fig)
+
+    # Description for Age vs Trek Cost
+    st.subheader("Interactive Age vs. Trek Cost")
+    st.markdown("""
+    This interactive scatter plot helps you understand how trek costs vary by age. The size of each point reflects the fitness level of the trekkers, 
+    while the colors represent different genders. You can hover over each point to get more details about the trek, rating, and fitness level.
+    """)
+    fig = px.scatter(
+        dataset, 
+        x='Age', 
+        y='Cost', 
+        title="Trek Cost by Age", 
+        labels={'Age': 'Age', 'Cost': 'Trek Cost (USD)'},
+        hover_data=['Trek', 'Rating', 'Fitness_Level'],
+        size='Fitness_Level',  # Adding size for Fitness Level to differentiate points
+        color='Sex',  # Different colors based on gender
+        color_discrete_sequence=px.colors.qualitative.Pastel  # Soft pastel colors
+    )
+    fig.update_layout(
+        template="plotly_white",
+        title_font_size=20,
+        xaxis_title_font_size=16,
+        yaxis_title_font_size=16
+    )
+    st.plotly_chart(fig)
+
+    # Description for Best Travel Time Frequency
     st.subheader("Best Travel Time Frequency")
+    st.markdown("""
+    This bar chart illustrates the frequency of the best travel times for trekking. It provides insights into the most popular months 
+    for trekking activities based on the dataset. Hover over the bars to see the exact frequency for each time period.
+    """)
     best_travel_df = dataset['Best_travel_time_1'].value_counts().reset_index()
     best_travel_df.columns = ['Best Travel Time', 'Frequency']
-    fig = px.bar(best_travel_df, x='Best Travel Time', y='Frequency', title="Best Time to Travel by Frequency")
+    fig = px.bar(
+        best_travel_df, 
+        x='Best Travel Time', 
+        y='Frequency', 
+        title="Best Time to Travel by Frequency",
+        labels={'Best Travel Time': 'Best Travel Time', 'Frequency': 'Frequency'},
+        color='Frequency',  # Color bars based on frequency
+        color_continuous_scale=px.colors.sequential.Plasma  # Bright color scale
+    )
+    fig.update_layout(
+        template="plotly_dark", 
+        title_font_size=20,
+        xaxis_title_font_size=16,
+        yaxis_title_font_size=16
+    )
     st.plotly_chart(fig)
-    
+
     st.markdown('</div>', unsafe_allow_html=True)
