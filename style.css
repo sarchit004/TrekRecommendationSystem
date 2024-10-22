@@ -50,6 +50,14 @@ body {
     background-color: #0E1117;
 }
 
+.custom-intro {
+    font-size: 18px;  /* Change the font size */
+    color: #819ad0;   /* Change the text color */
+    margin-bottom: 20px;  /* Add some spacing below the section */
+    text-align: justify;  /* Justify the text for better alignment */
+}
+
+
 /* Heading colors and font */
 h1, h2, h3 {
     color: #e57f36;
@@ -65,7 +73,7 @@ h1 {
 /* Button styling */
 .stButton>button {
     background-color: #1abc9c;
-    color: white;
+    color: #000;
     font-size: 16px;
     padding: 10px 20px;
     border-radius: 8px;
@@ -74,7 +82,22 @@ h1 {
 
 .stButton>button:hover {
     background-color: #16a085;
-    color: white;
+    color: #000;
+}
+
+button[data-baseweb="button"] {
+    background-color: #1abc9c;  /* Change button background color */
+    color: white;               /* Change text color */
+    border: none;               /* Remove border */
+    padding: 10px 20px;         /* Add some padding */
+    border-radius: 5px;         /* Make corners rounded */
+    font-size: 16px;            /* Adjust font size */
+    cursor: pointer;            /* Add pointer cursor on hover */
+}
+
+/* Change button hover effect */
+button[data-baseweb="button"]:hover {
+    background-color: #16a085;  /* Darken the background color on hover */
 }
 
 /* Form Card Design */
@@ -117,5 +140,5 @@ input, select, textarea, .stNumberInput, .stSelectbox, .stSlider {
 /* General paragraph text */
 p {
     font-size: 18px;
-    color: #819ad0;
+    color: #000;
 }

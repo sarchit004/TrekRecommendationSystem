@@ -80,21 +80,25 @@ tabs = st.tabs(["Home", "Trek Recommendations", "Trek Cost Prediction", "Trekkin
 with tabs[0]:
     st.header("Welcome to the Trek Recommendation System!")
     st.markdown('<div class="stCard">', unsafe_allow_html=True)
-    st.write("""
-        This web application helps you to plan your trekking adventures by recommending the best treks based on your preferences, predicting the cost of treks, and visualizing trends in trekking data.
-        
-        ### Features:
-        - **Trek Recommendations**: Enter your preferences (e.g., budget, time, altitude) and get personalized trek recommendations.
-        - **Cost Prediction**: Predict the estimated cost of your trekking trip based on input parameters such as duration, altitude, and group size.
-        - **Data Visualizations**: Explore trends in trekking data, including costs, fitness levels, and best travel times.
-        
-        ### How to Use:
-        1. Navigate to the **Trek Recommendations** tab to get recommendations.
-        2. Use the **Cost Prediction** tab to estimate the cost of your trek.
-        3. Explore the **Trekking Data Visualizations** tab to view various insights from trekking data.
-        
-        Enjoy your adventure planning!
-    """)
+    st.markdown("""
+    <div class="custom-intro">
+    This web application helps you to plan your trekking adventures by recommending the best treks based on your preferences, predicting the cost of treks, and visualizing trends in trekking data.
+    </div>
+    
+    ### Features:
+    - **Trek Recommendations**: Enter your preferences (e.g., budget, time, altitude) and get personalized trek recommendations.
+    - **Cost Prediction**: Predict the estimated cost of your trekking trip based on input parameters such as duration, altitude, and group size.
+    - **Data Visualizations**: Explore trends in trekking data, including costs, fitness levels, and best travel times.
+    
+    ### How to Use:
+    1. Navigate to the **Trek Recommendations** tab to get recommendations.
+    2. Use the **Cost Prediction** tab to estimate the cost of your trek.
+    3. Explore the **Trekking Data Visualizations** tab to view various insights from trekking data.
+    
+    <div class="custom-intro">
+    Enjoy your adventure planning!
+    </div>
+    """, unsafe_allow_html=True)
     st.markdown('</div>', unsafe_allow_html=True)
 
 # ---------------------------------------------------
@@ -209,10 +213,12 @@ with tabs[3]:
     # Description for Trek Costs Over Time
     st.subheader("Trek Costs Over Time")
     st.markdown("""
+    <div class="custom-intro">
     This line graph shows the average trekking costs over the years. It helps you understand 
     how trekking prices have evolved over time, possibly due to inflation, demand, or changes in trek services. 
     Hover over the graph to see exact values for each year.
-    """)
+    </div>
+    """, unsafe_allow_html=True)
     cost_time_df = dataset.groupby('year')['Cost'].mean().reset_index()
     fig = px.line(
         cost_time_df, 
@@ -236,9 +242,11 @@ with tabs[3]:
     # Description for Trek Cost vs Group Size
     st.subheader("Trek Cost vs Group Size")
     st.markdown("""
+    <div class="custom-intro">
     This scatter plot shows the relationship between trek costs and group size. You can explore how different group sizes 
     impact the overall trek cost. Hover over each point to see additional details such as the trek name, altitude, and weather conditions. 
-    """)
+    </div>
+    """, unsafe_allow_html=True)
     fig = px.scatter(
         dataset, 
         x='Trekking_GroupSize', 
@@ -261,9 +269,11 @@ with tabs[3]:
     # Description for Age vs Trek Cost
     st.subheader("Interactive Age vs. Trek Cost")
     st.markdown("""
+    <div class="custom-intro">
     This interactive scatter plot helps you understand how trek costs vary by age. The size of each point reflects the fitness level of the trekkers, 
     while the colors represent different genders. You can hover over each point to get more details about the trek, rating, and fitness level.
-    """)
+    </div>
+    """, unsafe_allow_html=True)
     fig = px.scatter(
         dataset, 
         x='Age', 
@@ -286,9 +296,11 @@ with tabs[3]:
     # Description for Best Travel Time Frequency
     st.subheader("Best Travel Time Frequency")
     st.markdown("""
+    <div class="custom-intro">
     This bar chart illustrates the frequency of the best travel times for trekking. It provides insights into the most popular months 
     for trekking activities based on the dataset. Hover over the bars to see the exact frequency for each time period.
-    """)
+    </div>
+    """, unsafe_allow_html=True)
     best_travel_df = dataset['Best_travel_time_1'].value_counts().reset_index()
     best_travel_df.columns = ['Best Travel Time', 'Frequency']
     fig = px.bar(
