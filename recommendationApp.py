@@ -113,12 +113,12 @@ with tabs[1]:
     col1, col2 = st.columns(2)
 
     with col1:
-        cost = st.number_input("Enter your budget (Cost):", min_value=100, max_value=10000)
-        time = st.number_input("Enter the trek duration (in days):", min_value=1, max_value=30)
-        altitude = st.number_input("Enter the maximum altitude you are comfortable with (in meters):", min_value=1000, max_value=8000)
+        cost = st.number_input("Enter your budget (Cost):", min_value=1000, max_value=10000)
+        time = st.number_input("Enter the trek duration (in days):", min_value=3, max_value=30)
+        altitude = st.number_input("Enter the maximum altitude you are comfortable with (in meters):", min_value=1800, max_value=8000)
 
     with col2:
-        fitness_level = st.slider("Select your fitness level:", 1, 5, key="fitness_slider_1")
+        fitness_level = st.slider("Select your fitness level:", 1, 3, key="fitness_slider_1")
         guide_choice = st.selectbox("Do you prefer a guide or no guide?", ("Guide", "No Guide"))
         guide_numeric = 1 if guide_choice == "Guide" else 0
         group_size = st.number_input("Enter the preferred group size:", min_value=1, max_value=100)
@@ -170,7 +170,6 @@ with tabs[1]:
                 <p><strong>Cost:</strong> {trek_info['Cost']} USD</p>
                 <p><strong>Time:</strong> {trek_info['Time']} days</p>
                 <p><strong>Max Altitude:</strong> {trek_info['Max_Altitude']} meters</p>
-                <p><strong>Group Size:</strong> {trek_info['Trekking_GroupSize']}</p>
                 <p><strong>Guide:</strong> {'Guide' if trek_info['Guide_or_no_guide'] == 1 else 'No Guide'}</p>
                 <p><strong>Rating:</strong> {trek_stars}</p>
             </div>
@@ -190,10 +189,10 @@ with tabs[2]:
 
     with col1:
         time_input = st.number_input("Enter trek duration (in days):", min_value=1, max_value=30, key="cost_duration")
-        altitude_input = st.number_input("Enter maximum altitude (in meters):", min_value=1000, max_value=8000, key="cost_altitude")
+        altitude_input = st.number_input("Enter maximum altitude (in meters):", min_value=1800, max_value=8000, key="cost_altitude")
 
     with col2:
-        fitness_level_input = st.slider("Select your fitness level:", 1, 5, key="fitness_slider_2")
+        fitness_level_input = st.slider("Select your fitness level:", 1, 3, key="fitness_slider_2")
         group_size_input = st.number_input("Enter group size:", min_value=1, max_value=100, key="group_size_cost")
 
     if st.button('Predict Trek Cost', key="cost_button"):
